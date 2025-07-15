@@ -1,0 +1,16 @@
+/* style.css */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #232438;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  user-select: none;
+}
+
+.container {
+  text-align: center;
+}
